@@ -1,9 +1,9 @@
 import styles from "./App.module.css";
 import { About } from "./Components/About/About";
-import { Contact } from "./Components/Contact/contact";
+import { Contact } from "./Components/Contact/Contact";
 import { Hero } from "./Components/Hero/Hero";
-import { Navbar } from "./Components/Navbar/navbar";
-import { Projects } from "./Components/Projects/projects";
+import { Navbar } from "./Components/Navbar/Navbar";
+import { Projects } from "./Components/Project/Projects";
 
 function App() {
   return (
