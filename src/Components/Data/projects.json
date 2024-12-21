@@ -4,7 +4,7 @@
     {
       "title": "GAS BOOKING WEBSITE",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Seamlessly book, track, and manage your gas cylinder deliveries with ease.",
       "skills": ["React", "Express", "Node","Express","Mongodb"],
       "demo": "https://gas-frontend.netlify.app/",
       "source": "https://github.com/Susenthraprabu31/gas-booking-frontend"
