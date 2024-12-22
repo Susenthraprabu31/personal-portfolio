@@ -16,6 +16,14 @@
       "skills": ["React","Javascript","Html","Css"],
       "demo": "https://pass-gen23.netlify.app/",
       "source": "https://github.com/Susenthraprabu31/password-generator"
+    },
+    {
+      "title": "TODO APP",
+      "imageSrc": "projects/project2.png",
+      "description": "A to-do app is a digital tool that helps you organize your tasks and keep track of them.",
+      "skills": ["React","Javascript","Html","Css"],
+      "demo": "https://todo-sp.netlify.app/",
+      "source": "https://github.com/Susenthraprabu31/todo"
     }
   ]
   
