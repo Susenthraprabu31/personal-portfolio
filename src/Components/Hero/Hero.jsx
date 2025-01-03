@@ -12,8 +12,8 @@ export const Hero = () => {
           I'm a full-stack developer with a experience using React and
           NodeJS. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:susenthraprabu2002@gmail.com" className={styles.contactBtn}>
-          Contact Me
+        <a href="https://drive.google.com/file/d/1_l8PhJtI_N_1-BgcYUDvjqxFBiT2bKIt/view?pli=1" className={styles.contactBtn}>
+          Read the CV
         </a>
       </div>
       <img
