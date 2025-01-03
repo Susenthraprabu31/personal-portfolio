@@ -13,7 +13,7 @@ export const Hero = () => {
           NodeJS. Reach out if you'd like to learn more!
         </p>
         <a href="https://drive.google.com/file/d/1_l8PhJtI_N_1-BgcYUDvjqxFBiT2bKIt/view?pli=1" className={styles.contactBtn}>
-          Read the CV
+        Download CV
         </a>
       </div>
       <img
